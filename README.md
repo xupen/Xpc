@@ -1,1 +1,2 @@
-A new git study
+
+first change learn more do more
